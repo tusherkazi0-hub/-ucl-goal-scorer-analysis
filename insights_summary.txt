@@ -1,0 +1,74 @@
+=== Top 10 Goal Scorers ===
+Player
+Luis Suarez            62
+Alfredo Di Stefano     58
+Neymar Jr              56
+Jude Bellingham        53
+Memphis Depay          52
+Zlatan Ibrahimovic     52
+Joshua Kimmich         51
+Thomas Muller          50
+Ruud Van Nistelrooy    50
+Cristiano Ronaldo      48
+
+=== Top 10 Clubs by Goals ===
+Club
+Real Madrid            433
+Manchester City        229
+Barcelona              172
+Bayern Munich          150
+Paris Saint-Germain    146
+Manchester United       86
+Juventus                82
+Atletico Madrid         80
+Liverpool               77
+Ac Milan                75
+
+=== Goals per Season ===
+Season
+2010-11    132
+2011-12    106
+2012-13    145
+2013-14    126
+2014-15    105
+2015-16    120
+2016-17    110
+2017-18    132
+2018-19    115
+2019-20    132
+2020-21    136
+2021-22    121
+2022-23    126
+2023-24    125
+
+=== Goal Type Distribution ===
+Goal_Type
+Penalty       457
+Header        439
+Right Foot    417
+Left Foot     215
+Free Kick     203
+
+=== Home vs Away Goals ===
+Venue
+Away    903
+Home    828
+
+=== Goals by Round ===
+Round
+Group Stage      622
+Round Of 16      451
+Final            231
+Semi-Final       219
+Quarter-Final    208
+
+Average goal-scoring minute: 48.1
+
+=== Goals by 15-min Interval ===
+Minute_Bucket
+1-15     248
+16-30    290
+31-45    267
+46-60    314
+61-75    250
+76-96    362

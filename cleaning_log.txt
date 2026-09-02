@@ -1,0 +1,27 @@
+Raw rows loaded: 2040
+
+Rows removed (Opponent == Club, invalid record): 92
+
+Missing values per column before imputation:
+Player              0
+Nationality        30
+Club                0
+Season              0
+Round               0
+Opponent          183
+Minute             43
+Goal_Type           0
+Venue               0
+Goals_In_Match      0
+
+Rows removed (missing Opponent): 183
+
+Duplicate rows removed: 34
+
+Rows removed (invalid Minute range): 0
+
+Final clean row count: 1731
+
+Final columns: ['Player', 'Nationality', 'Club', 'Season', 'Round', 'Opponent', 'Minute', 'Goal_Type', 'Venue', 'Goals_In_Match']
+
+Remaining nulls total: 0
